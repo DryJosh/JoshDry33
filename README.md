@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @JoshDry33
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning rust
-- 📫 How to reach me josh18d33@gmail.com
+Nobody will never find this page
